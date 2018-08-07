@@ -2,4 +2,4 @@
 # o @guirn222 é mto lindo 
 
 # nome: natalia
-# idade: way too young
+idade: way too young
